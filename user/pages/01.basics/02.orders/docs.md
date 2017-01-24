@@ -11,7 +11,7 @@ Now lets go over the orders app and how to use it to see your companies orders t
 
 ##Mobile:
 
-When you first login to the mobile app, you will be greated with the Activity Screen. This gives you a look at recent activity that has happened in your Podio workspace.
+When you first login to the mobile app, you will be greeted with the Activity Screen. This gives you a look at recent activity that has happened in your Podio workspace.
 
 **To get to the Orders App, you'll need to tap Browse.**
 ![Login](../../user/assets/Login.png)
