@@ -35,4 +35,4 @@ The following video is a quick overview of the information contained in each Ord
 
 [![Item](../../user/assets/Item.png)](https://screencast.com/t/Lv4LUOc2Dc)
 
-<embed width="100%" src="../../user/assets/Mobile-Order-Item-View.swf">
+<embed width="852" height="1514" src="../../user/assets/Mobile-Order-Item-View.swf">
