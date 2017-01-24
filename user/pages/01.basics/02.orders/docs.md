@@ -11,7 +11,7 @@ Now lets go over the orders app and how to use it to see your companies orders t
 
 ##Mobile:
 
-![Login](user/assets/Login.png)
-![Browse](user/assets/Browse.png)
-![Company](user/assets/Company.png)
-![Orders](user/assets/Orders.png)
+![Login](../user/assets/Login.png)
+![Browse](../user/assets/Browse.png)
+![Company](../user/assets/Company.png)
+![Orders](../user/assets/Orders.png)
