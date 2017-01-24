@@ -33,4 +33,4 @@ Now you have successfully reached the Orders App. Here you will see a list of mo
 ***
 The following video is a quick overview of the information contained in each Order item:
 
-[![Item](../../user/assets/Item.png)](https://screencast.com/t/Lv4LUOc2Dc)
+[![Item](../../user/assets/Item.png)](https://screencast.com/t/Lv4LUOc2Dc){:target="_blank"}
