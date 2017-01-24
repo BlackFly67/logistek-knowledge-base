@@ -16,7 +16,7 @@ When you first login to the mobile app, you will be greated with the Activity Sc
 To get to the Orders App, you'll need to tap Browse.
 ![Login](../../user/assets/Login.png)
 ***
-After Hitting Browse, you'll see Logistek Workspaces. The reason it doesn't just go right to your companies workspace is that you may be using podio to manage data of your own in your own workspace.
+After Hitting Browse, you'll see Logistek workspaces. The reason it doesn't just go right to your Company's workspace is that you may be using Podio to manage data of your own in your own workspace.
 
 To get to the Orders App, you'll need to tap your Company.
 ![Browse](../../user/assets/Browse.png)
