@@ -8,7 +8,7 @@ Now lets go over the orders app and how to use it to see your companies orders t
 
 ##Web Browser:
 
-When you first login to the web app, you will be greeted with the Activity Screen. This gives you a look at recent activity that has happened in your Podio workspace. You'll also get an at a glance view of your account receivables if we handle your invoicing and collections.
+When you first login to the web app, you will be greeted with the Activity Screen. This gives you a look at recent activity that has happened in your Podio workspace. You'll also get an at a glance view of your accounts receivables if we handle your invoicing and collections.
 
 **To get to the Orders App, just click Orders from My Favorite Apps.**
 ![Login](../../user/assets/Activity-Web.png)
